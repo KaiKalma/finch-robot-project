@@ -101,6 +101,7 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+<<<<<<< HEAD
 
 
 
@@ -108,4 +109,13 @@ If you complete your chosen challenge early, consider:
 ## PROJECT DESCRIPTION
 ## The project that me and cara did focused on making the finch robot do a dance. We also made it light up and play a little tune at the end. The design choices that I used were lights that were green, red, blue, white, and pink/ Some challenges that we faced while coding was figuring ou thow to push my repositiory to github, we also had a problem with connecting and saving my work on VS code, since it is a website that we never used before. The solutions that we used for this was to ask my peers and Mr Eillo. Some future enhancements for this project would be to make the movement a little faster, and make it do a flip off of a ramp. Here is the video of my finch in action!!!!!!!!!
 ## VIDEO:
-<video controls src="20250606-1639-09.4904698.mp4" title="Title"></video>
+[<video controls src="20250606-1639-09.4904698.mp4" title="Title"></video>](https://drive.google.com/file/d/1kb4mRnnEApd2e7DYeYVA-aYnPCrdEyLh/view?usp=sharing)
+=======
+
+
+
+
+## PROJECT DESCRIPTION
+## The project that me and cara did focused on making the finch robot do a dance. We also made it light up and play a little tune at the end. The design choices that I used were lights that were green, red, blue, white, and pink/ Some challenges that we faced while coding was figuring ou thow to push my repositiory to github, we also had a problem with connecting and saving my work on VS code, since it is a website that we never used before. The solutions that we used for this was to ask my peers and Mr Eillo. Some future enhancements for this project would be to make the movement a little faster, and make it do a flip off of a ramp. Here is the video of my finch in action!!!!!!!!!
+## VIDEO:
+https://drive.google.com/file/d/1kb4mRnnEApd2e7DYeYVA-aYnPCrdEyLh/view?usp=sharing

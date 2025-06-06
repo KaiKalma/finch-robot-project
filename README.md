@@ -83,27 +83,12 @@ Your program must include at least 5 of these Java/OOP concepts:
 
 ## Challenge-Specific Guidelines
 
-### Dance Challenge
+### Dance Challenge this is the one that I used
 Create a choreographed dance routine for your Finch that synchronizes:
 - Movement patterns (forward/backward, turns)
 - LED light displays (beak and tail)
 - Sound patterns using the buzzer
 - Consider using arrays to store sequences of movements/lights/sounds
-
-### Drawing Challenge
-Program your Finch to create an artistic drawing:
-- Design an algorithm to create a recognizable pattern or image
-- Use precise motor control for clean lines
-- Consider incorporating sensor data to affect the drawing
-- Create a system to track position on the drawing surface
-
-### Maze Navigation Challenge
-Program your Finch to navigate through a maze:
-- Use distance sensors to detect walls
-- Implement an algorithm for maze solving (wall following, etc.)
-- Consider storing and analyzing the path taken
-- Add visual/audio feedback during navigation
-- Optional: Allow for maze "learning" and optimization on repeated runs
 
 ## Resources
 - Finch API Documentation (provided in class)
@@ -116,3 +101,11 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+
+
+
+## PROJECT DESCRIPTION
+## The project that me and cara did focused on making the finch robot do a dance. We also made it light up and play a little tune at the end. The design choices that I used were lights that were green, red, blue, white, and pink/ Some challenges that we faced while coding was figuring ou thow to push my repositiory to github, we also had a problem with connecting and saving my work on VS code, since it is a website that we never used before. The solutions that we used for this was to ask my peers and Mr Eillo. Some future enhancements for this project would be to make the movement a little faster, and make it do a flip off of a ramp. Here is the video of my finch in action!!!!!!!!!
+## VIDEO:
+<video controls src="20250606-1639-09.4904698.mp4" title="Title"></video>
